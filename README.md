@@ -1,6 +1,6 @@
 # YouTube Recommendations App
 
-## Copy of my prize winning MSc Computing group project
+## Copy of my prize winning MSc Computing group project
 
 ## Collaborators
 - Alexander Arzt
