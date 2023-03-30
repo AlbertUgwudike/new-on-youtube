@@ -1,5 +1,15 @@
 # YouTube Recommendations App
 
+## Copy of my prize winning MSc Computing group project
+
+## Collaborators
+- Alexander Arzt
+- David Bull
+- Patrick Gallagher
+- Max Lucuta
+- Jack Pearce 
+- Albert Ugwudike
+
 ## Project Structure
 This project has two major subdirectories
 - client - All the user-facing frontend code
